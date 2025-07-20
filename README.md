@@ -106,3 +106,4 @@ Vite
 This is a learning repository, so code may be messy or experimental.
 
 Feedback and suggestions are always welcome!
+# Learning_React
